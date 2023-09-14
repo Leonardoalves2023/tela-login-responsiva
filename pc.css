@@ -1,0 +1,39 @@
+@media screen and (min-width:941px) and (max-width:5000px) {
+    
+body{
+    background-color: blue;
+}
+#login{
+    width: 950px;
+    height: 350px;
+}
+#imagens{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+#form{
+    float: left;
+    width: 50%;
+}
+}
+
+@media screen and (min-width:750px) and    (max-width:940px){
+    
+    body{
+        background-color: blue;
+    }
+    #login{
+        width: 700px;
+        height: 300px;
+    }
+    #imagens{
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+    #form{
+        float: left;
+        width: 50%;
+    }
+    }
